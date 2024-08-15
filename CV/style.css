@@ -1,0 +1,20 @@
+html {
+    scroll-behavior: smooth;
+    background-color: #E6E9ED;
+ }
+
+
+ h1 {
+    text-align: center;
+ }
+
+
+ .bg-body {
+    background-color: rgb(253, 249, 249);
+    color: 2C2C2C;
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+ }
+
