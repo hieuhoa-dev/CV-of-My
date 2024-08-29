@@ -26,8 +26,13 @@ html {
 }
 
 .Nen {
+   background-color: coral;
+   border-radius: 10px;
    width: 1000px;
-   background-color: #8383a8;
+}
+
+h2.h1:hover{
+   background-color: rgb(226, 247, 207);
 }
 
 
