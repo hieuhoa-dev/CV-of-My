@@ -27,6 +27,10 @@ html {
 
 .Nen {
    width: 1000px;
-   background-color: rgb(59, 131, 199);
+   element.style {
+      background-color: #8383a8;
+   }
 }
+
+
 
