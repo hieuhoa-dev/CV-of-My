@@ -11,13 +11,12 @@ html {
 
  .bg-body {
     background-color: rgb(253, 249, 249);
-    color: 2C2C2C;
     width: 1000px;
     height: 1000px;
     margin: 0 auto;
     padding: 20px;
     box-shadow: -0px -0px 30px 5px #AAA ;
-   border-radius: 20 px !important;
+    border-radius: 20 px ;
  }
 
  h1,h2,h3,h3,p,div {
