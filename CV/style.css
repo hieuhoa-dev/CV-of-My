@@ -25,3 +25,8 @@ html {
    font-family: Poppins, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";;
 }
 
+.bg-body.Nen {
+   width: 1000px;
+   background-color: rgb(59, 131, 199);
+}
+
